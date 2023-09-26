@@ -15,14 +15,19 @@ body {
 }
 
 a {
-  color: #9d1b1b;
+  color: #ffffff;
   text-decoration: none;
 }
 
 a:hover {
-  color: #d22121;
+  color: #ffffff;
   text-decoration: none;
 }
+
+
+
+
+
 
 h1,
 h2,
@@ -394,7 +399,7 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 150%;
   height: 100vh;
   position: relative;
   background: url("../img/hero-bg.jpg") top center;
@@ -413,7 +418,7 @@ h6 {
 }
 
 #hero .container {
-  padding-top: 80px;
+  padding-top: 20px;
 }
 
 #hero h1 {
@@ -467,7 +472,7 @@ h6 {
 #hero .icon-box .title {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 35px;
 }
 
 #hero .icon-box .title a {
